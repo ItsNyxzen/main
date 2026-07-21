@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=1500&color=2DD4BF&background=00000000&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%E2%9C%A6+ItsNyxzen+%E2%9C%A6" alt="ItsNyxzen" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&delay=1800&color=99F6E4&background=00000000&center=true&vCenter=true&repeat=false&width=520&height=30&lines=Co-Owner+%26+Screenwriter+%40+Nyxtails" alt="Role" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&delay=1800&color=99F6E4&background=00000000&center=true&vCenter=true&repeat=false&width=520&height=30&lines=Co-Owner+%26+Screenwriter+%40+Nyxtails+Studio" alt="Role" />
 
 <br>
 
