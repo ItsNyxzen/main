@@ -1,11 +1,14 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0D9488,100:2DD4BF&height=200&section=header&text=ItsNyxzen&fontSize=60&fontColor=CCFBF1&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=58&descSize=18&descColor=99F6E4" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&background=00000000&center=true&vCenter=true&repeat=true&width=520&lines=Full-Stack+Developer;Game+Studio+Co-Founder+%40+Nyxtails;Always+shipping+something+new" alt="Typing SVG" />
-</p>
+# ✦ ItsNyxzen ✦
+
+<sub>Full-Stack Developer · Co-Founder @ Nyxtails</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/-2DD4BF?style=flat-square" width="60" height="4">
+
+</div>
 
 <br>
 
@@ -33,33 +36,22 @@
 
 <br>
 
-<!-- ============ TOOLS & TECH ============ -->
-<h3 align="center">🛠️ Tools & Tech</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mongodb,cs,dotnet,vscode,visualstudio,gitlab,unrealengine&theme=dark" />
-</p>
-
-<br>
-
-<!-- ============ GITHUB STATS ============ -->
+<!-- ============ GITHUB STATS (working mirror) ============ -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsNyxzen&show_icons=true&hide_border=true&theme=transparent&title_color=2DD4BF&icon_color=5EEAD4&text_color=CCFBF1&border_radius=12" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNyxzen&layout=compact&hide_border=true&theme=transparent&title_color=2DD4BF&text_color=CCFBF1&border_radius=12" height="165px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsNyxzen&hide_border=true&theme=transparent&background=00000000&ring=2DD4BF&fire=5EEAD4&currStreakLabel=CCFBF1" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ItsNyxzen&show_icons=true&hide_border=true&theme=transparent&title_color=2DD4BF&icon_color=5EEAD4&text_color=CCFBF1&border_radius=12" height="165px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ItsNyxzen&layout=compact&hide_border=true&theme=transparent&title_color=2DD4BF&text_color=CCFBF1&border_radius=12" height="165px" />
 </p>
 
 <br>
 
-<!-- ============ PROFILE VIEWS ============ -->
+<!-- ============ PROFILE VIEWS (anime counter kept) ============ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsNyxzen&label=Profile+Views&color=0D9488&style=for-the-badge" alt="Profile Views" />
+  <img src="https://count.getloli.com/@ItsNyxzen?name=ItsNyxzen&theme=moebooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" width="45%" />
 </p>
 
-<!-- ============ FOOTER ============ -->
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0D9488,100:0F172A&height=100&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/-2DD4BF?style=flat-square" width="60" height="4">
 </p>
