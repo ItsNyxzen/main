@@ -36,6 +36,54 @@
 
 <br>
 
+<!-- ============ CURRENT PROJECT ============ -->
+<h3 align="center">🚀 Current Project</h3>
+
+<h4 align="center">Backrooms Manager - Together</h4>
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/4895520/Backrooms_Manager__Together/">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4895520/0d71d241977a872ce64d15cbc0733fba0e5c8ca4/header.jpg" width="65%" style="border-radius:10px" alt="Backrooms Manager - Together" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-Jul%2025%2C%202026-0F172A?style=flat-square&labelColor=134E4A&color=2DD4BF" />
+  <img src="https://img.shields.io/badge/Genre-Co--op%20Survival%20Horror-0F172A?style=flat-square&labelColor=134E4A&color=2DD4BF" />
+  <img src="https://img.shields.io/badge/Status-Early%20Access-0F172A?style=flat-square&labelColor=134E4A&color=2DD4BF" />
+</p>
+
+<p align="center">
+A 6-player co-op scavenging and logistics game set in the terrifying Backrooms.
+</p>
+
+<p align="center">
+🔍 Search dangerous sectors for valuable items<br>
+🔧 Break down junk into scrap and manage resources<br>
+📦 Deliver shipments on time while managing team budget<br>
+🛠️ Upgrade abilities, equipment, and keep your balance positive<br>
+👥 Survive the 49-day contract and avoid erasure
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Early%20Access-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/Co--op-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/Horror-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/Survival%20Horror-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/FPS-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/Psychological%20Horror-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/Exploration-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+  <img src="https://img.shields.io/badge/Multiplayer-CCFBF1?style=flat-square&labelColor=0F172A&color=0F172A" />
+</p>
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/4895520/Backrooms_Manager__Together/">
+    <img src="https://img.shields.io/badge/▶_Wishlist%20on%20Steam-2DD4BF?style=for-the-badge&labelColor=0F172A" alt="Wishlist on Steam" />
+  </a>
+</p>
+
+<br>
+
 <!-- ============ GITHUB STATS (working mirror) ============ -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
